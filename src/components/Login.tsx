@@ -266,14 +266,14 @@ const Login_Components = styled.div`
     }
 
     .input_wrapper {
-        width: calc(100% - 20%);
+        width: calc(100% - 30%);
     }
 
     .bottom_content {
-        width: calc(100% - 20%);
+        width: calc(100% - 30%);
     }
     .btn {
-    width: calc(100% - 20%);
+    width: calc(100% - 40%);
 
     }
 
@@ -291,7 +291,7 @@ const Login_Components = styled.div`
         width: calc(100% - 20%);
     }
     .btn {
-    width: calc(100% - 20%);
+    width: calc(100% - 55%);
 
     }
 
